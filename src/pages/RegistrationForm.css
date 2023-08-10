@@ -1,0 +1,29 @@
+
+#inscription-container {
+  font-size: 25px;
+  padding-top: 60px;
+  color: #fff;
+  width: 50%;
+  margin:auto;
+  }
+  .error-msg{
+    margin-top:8px;
+    color: red;
+    font-weight: 300;
+    display: none;
+  }
+input[type="text"],
+input[type="email"] {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+input {
+  width: 100%;
+  }
